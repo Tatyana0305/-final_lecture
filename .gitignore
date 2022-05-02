@@ -50,3 +50,8 @@ LoginPageV3.java
 LoginPageV2.java
 /src/
 /gradle/
+/gradle/
+build.gradle
+gradlew
+gradlew.bat
+settings.gradle
